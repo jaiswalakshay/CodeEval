@@ -1,4 +1,4 @@
-package com.whatfix.runner;
+package com.jaiswalakshay.runner;
 
 public class RobotMovement {
 	private static int countNumberOfPath(int inputGrid[][], int row, int col) {
