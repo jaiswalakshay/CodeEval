@@ -1,0 +1,10 @@
+.project
+.settings
+.classpath
+target
+.war
+.jar
+node_modules
+.log
+*.iml
+*.idea
